@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mariam%20Essam&fontSize=45&fontColor=ffffff"/>
+</p>
 
-<!--
-**MariamEssam5/MariamEssam5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F78FB3&center=true&vCenter=true&width=600&lines=Hello+I'm+Mariam+Essam;Flutter+Developer;UI%2FUX+Enthusiast;Welcome+to+my+GitHub+Profile!">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me  
+- 🎓 CS Student at Fayoum University  
+- 💙 Flutter Developer  
+- 🎨 Love UI/UX & Creative Design  
+- 🚀 Passionate about Mobile App Development  
+
+---
+
+### 🔧 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,python,html,css,git,github&theme=light" />
+</p>
+
+---
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
